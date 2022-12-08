@@ -125,3 +125,5 @@ Sample game from the best [model](../models/v17.1/model_163500.h5) on empty boar
 
 Sample game from the best [model](../models/v17.1/model_163500.h5) on board with more obstacles<br>
 <img width="400" height="400" src="https://github.com/DragonWarrior15/snake-rl/blob/master/images/game_visual_v17.1_163500_14_ob_3.gif" alt="model v17.1 agent">
+#   G A - 2  
+ 
